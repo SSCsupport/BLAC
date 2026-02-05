@@ -1,0 +1,22 @@
+{
+	"content": "news",
+	"posts": [
+		{
+			"type": "event",
+			"thumbnail": {
+				"src": "/images/group-photo-gala.png"
+			},
+			"title": "32nd Annual Scholarships and Award Banquet Gala",
+			"description": "Get your tickets to this years Banquet Gala. Award five outstanding law student scholarships and Distinguished Service Award recipient, Judge Janaya Trotter-Bratton.",
+			"href": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2F32nd-annual-scholarships-and-award-banquet-gala-tickets-1230798434249%3Futm_experiment%3Dtest_share_listing%26aff%3Debdsshios&h=AT3rliMvbngdyLuKpR3CJL9X8UuKigHmtntCDRDMovGazFT4VHx6atKC9V2PDeP7XRE6nQoSyDxTLrIw0xmD21bVwWKI5W70oFx4iyNncwKFcNatafVUJEGsE9DwNS5I7ELItBxnLWrBZwxq_b4gDg&s=1",
+			"actionLabel": "Get tickets",
+			"date": "2025-11-01"
+		},
+		{
+			"type": "facebook",
+			"title": "31st Annual Scholarships and Awards Banquet Photos",
+			"href": "https://www.facebook.com/cincyblac/posts/pfbid02KzPiQXZHC5TDbqCZAFV4t8VQkb9GtQ1DpvPJVUtrAmZAmvnrh3X1V2m8BRMJUSCyl",
+			"date": "2025-09-22"
+		}
+	]
+}
